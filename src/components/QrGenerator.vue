@@ -13,7 +13,7 @@
     <!-- Logo Upload -->
     <label class="block mb-4">
       <span class="text-gray-700 mb-1">Upload Logo (optional)</span>
-      <input type="file" accept="image/*" @change="handleLogoUpload" class="block w-full text-sm text-gray-500 underline"/>
+      <input type="file" accept="image/*" @change="handleLogoUpload" class="block w-full text-sm underline text-red-600 mt-3 p-2 border rounded"/>
     </label>
 
     <!-- Generate Button -->

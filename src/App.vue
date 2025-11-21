@@ -23,7 +23,7 @@
           ]"
           @click="tab = 'scan'"
         >
-          Scan QR
+          Generate QR
         </button>
 
         <button
@@ -35,7 +35,7 @@
           ]"
           @click="tab = 'generate'"
         >
-          Generate QR
+          Scan QR
         </button>
       </div>
 
